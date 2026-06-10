@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### I design and build backend systems, automation platforms, Telegram products and product MVPs.
+### Backend systems · automation platforms · Telegram products · product MVPs
 
 <p>
   <a href="https://github.com/DizzyZ7"><img src="https://img.shields.io/badge/GitHub-DizzyZ7-0f172a?style=for-the-badge&logo=github" /></a>
@@ -34,31 +34,21 @@ Outside engineering, I am a big animal person — especially **cats, dogs and ho
 
 ## Core value
 
-<table>
-<tr>
-<td width="33%">
-
 ### Backend engineering
 
 - REST / OpenAPI services
 - PostgreSQL-backed systems
 - Auth, migrations, workers
-- Event ingestion and queues
+- Event ingestion and delivery queues
 - Clean modular architecture
-
-</td>
-<td width="33%">
 
 ### Business automation
 
 - Telegram bots and Mini Apps
 - CRM/helpdesk workflows
-- Google Sheets / external APIs
+- Google Sheets and external APIs
 - Internal operational tools
 - Process automation and routing
-
-</td>
-<td width="33%">
 
 ### Product delivery
 
@@ -66,11 +56,7 @@ Outside engineering, I am a big animal person — especially **cats, dogs and ho
 - Dashboards and admin panels
 - Monitoring and alerts
 - AI/RAG support tools
-- Testing and CI pipelines
-
-</td>
-</tr>
-</table>
+- Testing, Docker and CI pipelines
 
 ---
 
@@ -98,10 +84,6 @@ Outside engineering, I am a big animal person — especially **cats, dogs and ho
 
 ## Featured systems
 
-<table>
-<tr>
-<td width="50%">
-
 ### [SignalBox](https://github.com/DizzyZ7/SignalBox)
 
 Production-ready Go webhook/event ingestion service.
@@ -114,8 +96,7 @@ Production-ready Go webhook/event ingestion service.
 
 **Stack:** Go, PostgreSQL, Docker, OpenAPI, GitHub Actions
 
-</td>
-<td width="50%">
+---
 
 ### [WTF / Work Task Flow](https://github.com/DizzyZ7/WTF_Tast_Manager)
 
@@ -129,10 +110,7 @@ Self-hosted task and project management platform.
 
 **Stack:** TypeScript, Next.js, PostgreSQL, WebSocket, Docker
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### [SME Cashflow Copilot](https://github.com/DizzyZ7/sme-cashflow-copilot)
 
@@ -146,8 +124,7 @@ Financial assistant MVP for small and medium businesses.
 
 **Stack:** Python, FastAPI, Streamlit, SQLite, Pandas, Docker
 
-</td>
-<td width="50%">
+---
 
 ### [Intelligent Support Orchestrator](https://github.com/DizzyZ7/Intelligent-Support-Orchestrator-with-RAG-Async-Processing)
 
@@ -161,10 +138,7 @@ RAG-based support automation system.
 
 **Stack:** Python, FastAPI, Celery, Redis, Qdrant, LangChain
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### [TelcoNet Guardian](https://github.com/DizzyZ7/TelcoNet-Guardian)
 
@@ -178,8 +152,7 @@ Monitoring and automation platform for telecom/NOC scenarios.
 
 **Stack:** Python, AsyncIO, FastAPI, SNMP, BGP, Prometheus, Grafana
 
-</td>
-<td width="50%">
+---
 
 ### [WorkNest API](https://github.com/DizzyZ7/worknest-api)
 
@@ -193,10 +166,7 @@ Production-style backend API for workspace/task scenarios.
 
 **Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic, Docker
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### [Dodo CV Table Detector](https://github.com/DizzyZ7/dodo-cv-table-detector)
 
@@ -210,8 +180,7 @@ Computer Vision tool for table occupancy detection from video.
 
 **Stack:** Python, OpenCV, NumPy, Pandas, CLI
 
-</td>
-<td width="50%">
+---
 
 ### [QA Microservices E2E Framework](https://github.com/DizzyZ7/qa-microservices-e2e-playwright-py)
 
@@ -225,42 +194,14 @@ Testing framework for API -> UI -> DB microservice flows.
 
 **Stack:** Python, Playwright, Pytest, PostgreSQL, Docker, Allure
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## Impact highlights
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 80+
-repositories across backend, automation, bots, AI, monitoring and MVPs
-
-</td>
-<td align="center" width="25%">
-
-### 87%
-manual processing reduction through automation workflows
-
-</td>
-<td align="center" width="25%">
-
-### Full cycle
-from idea and architecture to API, DB, Docker, CI/CD and docs
-
-</td>
-<td align="center" width="25%">
-
-### Product mindset
-engineering decisions connected to business operations
-
-</td>
-</tr>
-</table>
+- **80+ repositories** across backend, automation, bots, AI, monitoring and MVPs
+- **87% manual processing reduction** through automation workflows
+- **Full-cycle delivery** from idea and architecture to API, DB, Docker, CI/CD and documentation
+- **Product mindset**: engineering decisions connected to real business operations
 
 ---
 
