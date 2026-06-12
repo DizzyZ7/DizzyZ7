@@ -7,7 +7,7 @@
 <p>
   <a href="https://github.com/DizzyZ7"><img src="https://img.shields.io/badge/GitHub-DizzyZ7-0f172a?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/dimash-janibekov-80a90b386"><img src="https://img.shields.io/badge/LinkedIn-Dimash%20Janibekov-0f766e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/DizZy_Z7"><img src="https://img.shields.io/badge/Telegram-Contact-14b8a6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/dizzy_dev"><img src="https://img.shields.io/badge/Telegram-Contact-14b8a6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <p>
@@ -258,7 +258,7 @@ I build Telegram-first products and automation tools for business operations, ga
 
 <a href="https://github.com/DizzyZ7"><img src="https://img.shields.io/badge/GitHub-DizzyZ7-0f172a?style=for-the-badge&logo=github" /></a>
 <a href="https://www.linkedin.com/in/dimash-janibekov-80a90b386"><img src="https://img.shields.io/badge/LinkedIn-Dimash%20Janibekov-0f766e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://t.me/DizZy_Z7"><img src="https://img.shields.io/badge/Telegram-Write%20me-14b8a6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/dizzy_dev"><img src="https://img.shields.io/badge/Telegram-Write%20me-14b8a6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 <br />
 <br />
