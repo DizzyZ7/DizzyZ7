@@ -1,62 +1,157 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:0f766e,100:5eead4&text=Dimash%20%22DizZy%22%20Janibekov&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Fullstack%20%2F%20Backend%20%2F%20Automation%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111f,48:0f766e,100:7cf7c4&text=Dimash%20%22DizZy%22%20Janibekov&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Backend%20systems%20%C2%B7%20Automation%20%C2%B7%20AI%20products%20%C2%B7%20Interactive%20web&descAlignY=58&descSize=17" />
 
 <div align="center">
 
-### Backend systems · automation platforms · Telegram products · product MVPs
+### I build systems that make operations clear, reliable and scalable.
 
 <p>
-  <a href="https://github.com/DizzyZ7"><img src="https://img.shields.io/badge/GitHub-DizzyZ7-0f172a?style=for-the-badge&logo=github" /></a>
+  <a href="https://dizzyz7.github.io/DizZy-Systems-Atlas/"><img src="https://img.shields.io/badge/OPEN-SYSTEMS%20ATLAS-7cf7c4?style=for-the-badge&labelColor=07111f" /></a>
+  <a href="https://github.com/DizzyZ7"><img src="https://img.shields.io/badge/GitHub-DizzyZ7-111827?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/dimash-janibekov-80a90b386"><img src="https://img.shields.io/badge/LinkedIn-Dimash%20Janibekov-0f766e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://t.me/dizzy_dev"><img src="https://img.shields.io/badge/Telegram-Contact-14b8a6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=DizzyZ7&style=for-the-badge&color=0f766e" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Automation%20%7C%20MVPs-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Portfolio-80%2B%20repositories-14b8a6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Automation%20%7C%20AI-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Delivery-Architecture%20%E2%86%92%20MVP%20%E2%86%92%20Operations-14b8a6?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## Profile
+## About
 
-I am a **Fullstack / Backend / Automation Developer** focused on building systems that reduce manual work, connect services and turn product ideas into stable MVPs.
+I am a **Fullstack / Backend / Automation Developer** focused on backend-heavy products, event-driven systems, business automation and AI-enabled tools.
 
-My strongest zone is the intersection of **backend engineering, business operations and automation**: I turn unclear workflows into clean architecture, build APIs and data models, integrate external services, add background processing, package everything with Docker/CI and document it for long-term maintenance.
+I turn unclear workflows into explicit architecture, APIs, data models, background processing and operator-facing interfaces. My preferred result is not just code that runs, but a product that can be **deployed, observed, tested, explained and maintained**.
 
-I work across **Python, FastAPI, PostgreSQL, Telegram Bot API, CRM/helpdesk integrations, Docker, GitHub Actions, RAG/AI support systems, monitoring, computer vision prototypes and E2E testing**.
-
-Outside engineering, I am a big animal person — especially **cats, dogs and horses**.
+**Best fit:** backend platforms, automation products, Telegram systems, AI/RAG applications, monitoring, internal tools and production-oriented MVPs.
 
 ---
 
-## Core value
+## Start here — DizZy Systems Atlas
 
-### Backend engineering
+<table>
+<tr>
+<td width="67%" valign="top">
+
+### [Systems, connected.](https://dizzyz7.github.io/DizZy-Systems-Atlas/)
+
+An interactive map of my engineering systems and digital experiences. Projects can be explored by domain, architecture, stack and operational signals.
+
+<a href="https://dizzyz7.github.io/DizZy-Systems-Atlas/"><img src="https://img.shields.io/badge/Visit-live%20atlas-7cf7c4?style=flat-square&labelColor=07111f" /></a>
+<a href="https://github.com/DizzyZ7/DizZy-Systems-Atlas"><img src="https://img.shields.io/badge/View-source-111827?style=flat-square&logo=github" /></a>
+
+</td>
+<td width="33%" valign="top">
+
+**26** indexed systems  
+**10** engineering domains  
+**8** live digital experiences  
+**1** connected portfolio
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected engineering systems
+
+| System | What it solves | Core stack |
+| --- | --- | --- |
+| **[StormRelay](https://github.com/DizzyZ7/StormRelay)** | Self-hosted event correlation, incident response, durable runbooks and auditable policy decisions. | Go · PostgreSQL · NATS JetStream · OpenTelemetry |
+| **[SignalBox](https://github.com/DizzyZ7/SignalBox)** | Webhook ingestion with persistence, deduplication, replay and durable Telegram/HTTP delivery. | Go · PostgreSQL · OpenAPI · Docker |
+| **[VerdictMesh](https://github.com/DizzyZ7/verdictmesh)** | Evidence-grounded forecasting with multi-agent consensus, deterministic risk controls and paper execution. | Python · FastAPI · PostgreSQL · Claude |
+| **[AI Memo](https://github.com/DizzyZ7/AI-MEMO)** | Voice-first PWA that turns thoughts into searchable notes, tasks, themes and weekly patterns. | Next.js · TypeScript · Prisma · pgvector |
+| **[HomeLedger](https://github.com/DizzyZ7/home-ledger)** | Household inventory, receipts, warranties and recurring maintenance in one self-hosted product. | Flutter · FastAPI · PostgreSQL · Riverpod |
+| **[Offline Voice Runtime](https://github.com/DizzyZ7/voice_project_rhvoice)** | Offline STT/TTS automation for Raspberry Pi, MQTT and equipment integrations. | Python · Vosk · Whisper · MQTT · Prometheus |
+
+<details>
+<summary><b>More production-oriented builds</b></summary>
+
+<br />
+
+- **[SME Cashflow Copilot](https://github.com/DizzyZ7/sme-cashflow-copilot)** — short-term forecasting, cash-gap detection and explainable recovery scenarios.
+- **[Intelligent Support Orchestrator](https://github.com/DizzyZ7/Intelligent-Support-Orchestrator-with-RAG-Async-Processing)** — asynchronous RAG support automation with Celery, Redis and Qdrant.
+- **[TelcoNet Guardian](https://github.com/DizzyZ7/TelcoNet-Guardian)** — monitoring, SLA tracking and Telegram alerting for telecom/NOC scenarios.
+- **[WorkNest API](https://github.com/DizzyZ7/worknest-api)** — layered FastAPI backend with migrations, PostgreSQL and automated tests.
+- **[QA Microservices E2E](https://github.com/DizzyZ7/qa-microservices-e2e-playwright-py)** — API → UI → DB validation with Playwright, Pytest and Allure.
+- **[Dodo CV Table Detector](https://github.com/DizzyZ7/dodo-cv-table-detector)** — lightweight occupancy detection with OpenCV and machine-readable exports.
+
+</details>
+
+---
+
+## Live digital experiences
+
+| Experience | Direction | Links |
+| --- | --- | --- |
+| **NERVA SYSTEMS** | Automation company / dark technology interface | [Live](https://dizzyz7.github.io/NERVA-SYSTEMS/) · [Source](https://github.com/DizzyZ7/NERVA-SYSTEMS) |
+| **KORA ARCHITECTS** | Architectural editorial / drawings, space and light | [Live](https://dizzyz7.github.io/KORA-ARCHITECTS/) · [Source](https://github.com/DizzyZ7/KORA-ARCHITECTS) |
+| **VEIL** | Luxury fragrance / cinematic light, smoke and memory | [Live](https://dizzyz7.github.io/VEIL/) · [Source](https://github.com/DizzyZ7/VEIL) |
+| **BLACKLINE** | International logistics / routes, hubs and tracking | [Live](https://dizzyz7.github.io/BLACKLINE/) · [Source](https://github.com/DizzyZ7/BLACKLINE) |
+| **ORBITA MEDICAL** | Digital clinic / calm patient navigation | [Live](https://dizzyz7.github.io/ORBITA-MEDICAL/) · [Source](https://github.com/DizzyZ7/ORBITA-MEDICAL) |
+| **LUMEN ACADEMY** | Technology education / interactive learning systems | [Live](https://dizzyz7.github.io/LUMEN-ACADEMY/) · [Source](https://github.com/DizzyZ7/LUMEN-ACADEMY) |
+| **VOLTERRA** | Energy technology / generation, storage and grid | [Live](https://dizzyz7.github.io/VOLTERRA/) · [Source](https://github.com/DizzyZ7/VOLTERRA) |
+| **NEON DISTRICT** | Digital arts festival / generative identity and program | [Live](https://dizzyz7.github.io/NEON-DISTRICT/) · [Source](https://github.com/DizzyZ7/NEON-DISTRICT) |
+
+---
+
+## Core capabilities
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend & platforms
 
 - REST / OpenAPI services
-- PostgreSQL-backed systems
-- Auth, migrations, workers
-- Event ingestion and delivery queues
-- Clean modular architecture
+- PostgreSQL, Redis and migrations
+- Event ingestion and durable queues
+- Auth, RBAC and audit trails
+- Observability and failure handling
 
-### Business automation
+</td>
+<td width="50%" valign="top">
+
+### Automation & product delivery
 
 - Telegram bots and Mini Apps
-- CRM/helpdesk workflows
-- Google Sheets and external APIs
-- Internal operational tools
-- Process automation and routing
+- CRM/helpdesk and external APIs
+- Background jobs and routing
+- Operator dashboards and internal tools
+- Docker, CI/CD, testing and documentation
 
-### Product delivery
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Full-cycle product MVPs
-- Dashboards and admin panels
-- Monitoring and alerts
-- AI/RAG support tools
-- Testing, Docker and CI pipelines
+### AI, RAG & data
+
+- Retrieval pipelines and vector search
+- Agent orchestration with explicit schemas
+- Forecasting and decision-support systems
+- OpenCV and lightweight computer vision
+- Explainable outputs and confidence signals
+
+</td>
+<td width="50%" valign="top">
+
+### Engineering approach
+
+- Architecture before framework choice
+- Explicit state and operational boundaries
+- Secure defaults and fail-closed behavior
+- MVPs designed to be operated, not only shown
+- Clear deployment and maintenance paths
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,175 +159,23 @@ Outside engineering, I am a big animal person — especially **cats, dogs and ho
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,ts,js,fastapi,django,flask,nextjs,react,postgres,redis,mongodb,docker,nginx,linux,kubernetes,githubactions,opencv" />
+<img src="https://skillicons.dev/icons?i=python,go,ts,js,fastapi,django,flask,nextjs,react" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,nginx,linux,kubernetes,githubactions,opencv" />
 
 <br />
 <br />
 
 <img src="https://img.shields.io/badge/Python-Backend%20%26%20Automation-0f766e?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-REST%20APIs-14b8a6?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Data%20Modeling-0f766e?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Telegram-Bots%20%26%20Mini%20Apps-2dd4bf?style=flat-square&logo=telegram&logoColor=0f172a" />
-<img src="https://img.shields.io/badge/Docker-Packaging-14b8a6?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-0f766e?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-E2E%20Testing-2dd4bf?style=flat-square&logo=playwright&logoColor=0f172a" />
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-14b8a6?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-Services%20%26%20Infrastructure-14b8a6?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-Products%20%26%20Interfaces-0f766e?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Data%20Modeling-14b8a6?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Delivery-0f766e?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-14b8a6?style=flat-square&logo=githubactions&logoColor=white" />
 
 </div>
-
----
-
-## Featured systems
-
-### [SignalBox](https://github.com/DizzyZ7/SignalBox)
-
-Production-ready Go webhook/event ingestion service.
-
-- Source-based public webhook endpoints
-- PostgreSQL event storage and deduplication
-- Durable Telegram delivery queue with retries/backoff
-- Admin API, OpenAPI, rate limiting and cursor pagination
-- Docker, GHCR image publishing and GitHub Actions CI
-
-**Stack:** Go, PostgreSQL, Docker, OpenAPI, GitHub Actions
-
----
-
-### [WTF / Work Task Flow](https://github.com/DizzyZ7/WTF_Tast_Manager)
-
-Self-hosted task and project management platform.
-
-- Workspace, project and task-board flows
-- Domain-first design for scalable business logic
-- Real-time collaboration direction
-- Product architecture and MVP foundation
-- Docker/CI-ready delivery direction
-
-**Stack:** TypeScript, Next.js, PostgreSQL, WebSocket, Docker
-
----
-
-### [SME Cashflow Copilot](https://github.com/DizzyZ7/sme-cashflow-copilot)
-
-Financial assistant MVP for small and medium businesses.
-
-- 14-day cashflow forecasting
-- Cash gap risk detection
-- What-if scenario planning
-- Audit trail, confidence scoring and JSON export
-- CLI, Streamlit UI and HTTP API modes
-
-**Stack:** Python, FastAPI, Streamlit, SQLite, Pandas, Docker
-
----
-
-### [Intelligent Support Orchestrator](https://github.com/DizzyZ7/Intelligent-Support-Orchestrator-with-RAG-Async-Processing)
-
-RAG-based support automation system.
-
-- FastAPI gateway for tickets and user requests
-- Celery + Redis async processing
-- Qdrant vector search over a knowledge base
-- LangChain RAG pipeline
-- Docker Compose local deployment
-
-**Stack:** Python, FastAPI, Celery, Redis, Qdrant, LangChain
-
----
-
-### [TelcoNet Guardian](https://github.com/DizzyZ7/TelcoNet-Guardian)
-
-Monitoring and automation platform for telecom/NOC scenarios.
-
-- Async-first monitoring architecture
-- ICMP/TCP checks, BGP validation and SNMP telemetry
-- SLA tracking and Telegram alerts
-- Prometheus metrics and Grafana dashboards
-- Docker/Kubernetes deployment direction
-
-**Stack:** Python, AsyncIO, FastAPI, SNMP, BGP, Prometheus, Grafana
-
----
-
-### [WorkNest API](https://github.com/DizzyZ7/worknest-api)
-
-Production-style backend API for workspace/task scenarios.
-
-- FastAPI service with clean entrypoint
-- PostgreSQL-ready architecture
-- SQLAlchemy models and Alembic migrations
-- Docker/Docker Compose setup
-- Pytest-based backend validation
-
-**Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic, Docker
-
----
-
-### [Dodo CV Table Detector](https://github.com/DizzyZ7/dodo-cv-table-detector)
-
-Computer Vision tool for table occupancy detection from video.
-
-- ROI-based analysis without heavy ML training
-- Background model and activity tracking
-- State classification: empty, occupied, approach
-- Annotated video, CSV timelines and JSON summary export
-- Lightweight CLI-oriented CV prototype
-
-**Stack:** Python, OpenCV, NumPy, Pandas, CLI
-
----
-
-### [QA Microservices E2E Framework](https://github.com/DizzyZ7/qa-microservices-e2e-playwright-py)
-
-Testing framework for API -> UI -> DB microservice flows.
-
-- End-to-end validation of full data paths
-- Playwright APIRequestContext for data setup
-- Page Object Model for UI scenarios
-- PostgreSQL checks and cleanup isolation
-- Allure Reports and GitHub Actions CI
-
-**Stack:** Python, Playwright, Pytest, PostgreSQL, Docker, Allure
-
----
-
-## Impact highlights
-
-- **80+ repositories** across backend, automation, bots, AI, monitoring and MVPs
-- **87% manual processing reduction** through automation workflows
-- **Full-cycle delivery** from idea and architecture to API, DB, Docker, CI/CD and documentation
-- **Product mindset**: engineering decisions connected to real business operations
-
----
-
-## Automation ecosystem
-
-I build Telegram-first products and automation tools for business operations, games, moderation and support workflows.
-
-- [Telegram Chess App](https://github.com/DizzyZ7/telegram_chess_app) — multiplayer Telegram Mini App with Go backend
-- [Auction Telegram Bot](https://github.com/DizzyZ7/auction__telegram_bot) — auction logic, bid history and automation scenarios
-- [Telegram Hangman Bot](https://github.com/DizzyZ7/telegram-hangman-bot) — game bot with simple interaction mechanics
-- Telegram bots for antispam, moderation, raffles, financial alerts, support routing and CRM/helpdesk operations
-
----
-
-<details>
-<summary><b>More portfolio areas</b></summary>
-
-<br />
-
-| Area | Examples |
-| --- | --- |
-| Backend APIs | SignalBox, WorkNest API, FastAPI services, Go services |
-| Automation | CRM/helpdesk integrations, Telegram workflows, internal tools |
-| AI / RAG / Data | Intelligent Support Orchestrator, AutoOps Brain, AI Ticket Agent, ML classifiers |
-| Monitoring | TelcoNet Guardian, health checks, SLA tracking, Prometheus/Grafana |
-| QA / Testing | QA Microservices E2E Framework, Playwright, Pytest, API/UI/DB checks |
-| Product MVPs | Work Task Flow, SME Cashflow Copilot, landing/MVP systems |
-| Bots & Games | Telegram bots, Telegram Mini Apps, Snake, Hangman, chess, Pokemon logic |
-| Java / Kotlin | Minecraft Fabric mods, utility mods, entity tools, automation experiments |
-
-</details>
 
 ---
 
@@ -256,15 +199,15 @@ I build Telegram-first products and automation tools for business operations, ga
 
 <div align="center">
 
-<a href="https://github.com/DizzyZ7"><img src="https://img.shields.io/badge/GitHub-DizzyZ7-0f172a?style=for-the-badge&logo=github" /></a>
+<a href="https://dizzyz7.github.io/DizZy-Systems-Atlas/"><img src="https://img.shields.io/badge/Portfolio-Systems%20Atlas-7cf7c4?style=for-the-badge&labelColor=07111f" /></a>
 <a href="https://www.linkedin.com/in/dimash-janibekov-80a90b386"><img src="https://img.shields.io/badge/LinkedIn-Dimash%20Janibekov-0f766e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/dizzy_dev"><img src="https://img.shields.io/badge/Telegram-Write%20me-14b8a6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 <br />
 <br />
 
-**I do not just write code. I build systems that remove manual work, connect products and make operations scalable.**
+**Systems, connected. Operations, clarified. Products, delivered.**
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,45:0f766e,100:5eead4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111f,48:0f766e,100:7cf7c4" />
