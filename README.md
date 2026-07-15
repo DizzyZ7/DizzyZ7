@@ -11,6 +11,7 @@
 </p>
 
 <p>
+  <img src="https://komarev.com/ghpvc/?username=DizzyZ7&style=for-the-badge&color=0f766e" />
   <img src="https://img.shields.io/badge/3%2B%20years-Commercial%20Experience-0f766e?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Saint%20Petersburg-14b8a6?style=flat-square" />
   <img src="https://img.shields.io/badge/Availability-Remote%20%7C%20Contract-0f766e?style=flat-square" />
