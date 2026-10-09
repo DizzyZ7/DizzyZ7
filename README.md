@@ -7,6 +7,7 @@
 <p>
   <a href="https://dizzyz7.github.io/dimashjanibekov.github.io/"><img src="https://img.shields.io/badge/ПОРТФОЛИО-ОТКРЫТЬ-7cf7c4?style=for-the-badge&labelColor=07111f" /></a>
   <a href="https://t.me/dizzy_dev"><img src="https://img.shields.io/badge/Telegram-@dizzy__dev-14b8a6?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://dizzyz7.github.io/DizZy-Systems-Atlas/"><img src="https://img.shields.io/badge/SYSTEMS%20ATLAS-ОТКРЫТЬ-65d9ff?style=for-the-badge&labelColor=07111f" /></a>
   <a href="mailto:dizzyod.z7@gmail.com"><img src="https://img.shields.io/badge/Email-dizzyod.z7%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -22,6 +23,27 @@
 </p>
 
 </div>
+
+---
+
+## В активной разработке · октябрь 2026
+
+> **Не просто собираю pet projects.** Параллельно развиваю backend-платформы, security-инструменты, B2B-продукты и игровые системы: проектирую архитектуру, пишу код, тестирую, разворачиваю и возвращаюсь к уже выпущенным функциям, чтобы сделать их надежнее.
+
+| Система | Доступ / стадия | Инженерная работа |
+| --- | --- | --- |
+| **JANQOR** | `PRIVATE · PILOT BUILD` | Operational control plane: событийная обработка, tenant isolation, controlled actions, outbox, audit и измерение value. Пилотные механизмы — не заявление о действующем клиентском внедрении. |
+| **VINFLOW** | `PRIVATE · LOCAL PILOT PROTOTYPE` | B2B workflow для автомобильных документов и склада: OCR, проверка оператором, транзакционные операции, аудит и CI. **Пока не production-ready.** |
+| **Catoku** | `PRIVATE · ACTIVE GAME DEVELOPMENT` | Telegram Mini App: генерация логических полей, прогресс и сезоны, PostgreSQL, игровые правила и UX для мобильных клиентов. |
+| **ISLUMI** | `PRIVATE · PLAYABLE TEST BUILD` | Игровой мир с островами, экспедициями и постоянным прогрессом; React/TypeScript + FastAPI + PostgreSQL. Тестовая сборка, не публичный релиз. |
+| **PokéHub / Raid Lab** | `PRIVATE · ITERATIVE DEVELOPMENT` | Telegram-бот и Mini App: рейды, коллекции, breeding, PostgreSQL-authoritative state и защита повторных операций. |
+| **[Sentinel](https://github.com/DizzyZ7/Sentinel)** | `PUBLIC · SECURITY ENGINEERING` | Evidence-to-patch pipeline: deterministic findings, ограниченный AI review, проверка исправлений и human approval. |
+| **[StormRelay](https://github.com/DizzyZ7/StormRelay)** | `PUBLIC · ADVANCED BUILD` | Incident response, JetStream, политика доступа, durable automation, telemetry; web UI и release packaging еще в разработке. |
+| **[TOUCH GRASS.exe](https://github.com/DizzyZ7/Grass)** | `PUBLIC · GAME ITERATION` | Игровые сессии, ежедневные задания, погодные состояния, анимации и серверная выдача наград. |
+
+**[Интерактивный Systems Atlas →](https://dizzyz7.github.io/DizZy-Systems-Atlas/)** · **[Открытая активность →](https://github.com/DizzyZ7?tab=repositories&sort=updated)** · **[Описание закрытых кейсов →](docs/PRIVATE_CASES.md)**
+
+> **PRIVATE означает только закрытый исходный код.** Упоминание проекта не открывает репозиторий и не подтверждает production deployment. Для B2B и игровых бета-продуктов стадия указана отдельно.
 
 ---
 
@@ -99,6 +121,9 @@
 | Проект | Что показывает | Стек |
 | --- | --- | --- |
 | **JANQOR** *(активный private-продукт)* | Operational control plane для выявления бизнес-потерь, запуска управляемых действий, сбора доказательств и измерения recovered value. Первый вертикальный рынок — рестораны. Multi-tenant boundaries, operator credentials, transactional outbox, readiness/telemetry и PostgreSQL E2E. | Python · FastAPI · SQLAlchemy async · PostgreSQL · Redis · Celery |
+| **VINFLOW** *(private · local pilot prototype)* | B2B-документооборот для автомобилей: OCR и проверка человеком, lifecycle складских операций, аудит, CI-тесты. Не production-ready. | Python · FastAPI · PostgreSQL · React · TypeScript · Docker |
+| **[Sentinel](https://github.com/DizzyZ7/Sentinel)** | Local-first security pipeline от проверки кандидата до evidence bundle и ручного решения; воспроизводимое демо и строгие release gates. | Python · FastAPI · PostgreSQL · SARIF · Docker |
+| **[DizZy Systems Atlas](https://github.com/DizzyZ7/DizZy-Systems-Atlas)** | Двуязычная интерактивная карта инженерных систем: архитектурные связи, фильтры, поиск, карточки с проверяемыми техническими сигналами. | JavaScript · Canvas · HTML/CSS · GitHub Pages |
 | **[ChainScribe API](https://github.com/DizzyZ7/ChainScribe-API)** | Security-focused backend с dual auth, Argon2, token hashing, ownership enforcement, row locks, immutable audit events, Redis rate limiting и production CI. | Python · Django Ninja · PostgreSQL · Redis · Docker |
 | **[StormRelay](https://github.com/DizzyZ7/StormRelay)** | Event-correlation / incident-response control plane с at-least-once processing, JetStream, durable runbooks, RBAC/OIDC и tracing через async boundaries. | Go · PostgreSQL · NATS JetStream · OpenTelemetry |
 | **[SignalBox](https://github.com/DizzyZ7/SignalBox)** | Webhook gateway с durable PostgreSQL queue, deduplication, replay, HMAC forwarding, SSRF guard, Prometheus metrics и security CI. | Go · PostgreSQL · OpenAPI · Docker |
